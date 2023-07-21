@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Voice-Assistant-News-Project-/static/css/main.468115ab.css",
+    "main.js": "/Voice-Assistant-News-Project-/static/js/main.5e0a0a72.js",
+    "index.html": "/Voice-Assistant-News-Project-/index.html",
+    "main.468115ab.css.map": "/Voice-Assistant-News-Project-/static/css/main.468115ab.css.map",
+    "main.5e0a0a72.js.map": "/Voice-Assistant-News-Project-/static/js/main.5e0a0a72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.468115ab.css",
+    "static/js/main.5e0a0a72.js"
+  ]
+}
